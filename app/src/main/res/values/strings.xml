@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">widgets_sj_vesp_camilalopez</string>
+    <string name="textview">TextView</string>
+    <string name="calificaciones">Calificaciones</string>
+    <string name="mis_productos">Mis productos</string>
+    <string name="cargar">CARGAR</string>
+    <string name="menu">MENU</string>
+    <string name="calificar">CALIFICAR</string>
+    <string name="volver">VOLVER</string>
+    <string name="image">image</string>
+</resources>
